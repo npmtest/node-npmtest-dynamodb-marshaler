@@ -1,4 +1,7 @@
-# test coverage for  [dynamodb-marshaler (v2.0.0)](https://github.com/CascadeEnergy/dynamoDb-marshaler#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dynamodb-marshaler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamodb-marshaler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler)
+# npmtest-dynamodb-marshaler
+
+#### basic test coverage for  [dynamodb-marshaler (v2.0.0)](https://github.com/CascadeEnergy/dynamoDb-marshaler#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dynamodb-marshaler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamodb-marshaler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler)
+
 #### Translates sane javascript objects (and JSON) into DynamoDb format and vice versa.
 
 [![NPM](https://nodei.co/npm/dynamodb-marshaler.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dynamodb-marshaler)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dynamodb-marshaler/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dynamodb-marshaler/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-dynamodb-marshaler/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-dynamodb-marshaler/build/coverage.html/index.html)
 
@@ -83,7 +86,8 @@
         "lint": "jshint .",
         "test": "mocha --recursive"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 

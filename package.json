@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [dynamodb-marshaler (v2.0.0)](https://github.com/CascadeEnergy/dynamoDb-marshaler#readme) [![npm package](https://img.shields.io/npm/v/npmtest-dynamodb-marshaler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamodb-marshaler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler)",
+    "description": "#### basic test coverage for  [dynamodb-marshaler (v2.0.0)](https://github.com/CascadeEnergy/dynamoDb-marshaler#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dynamodb-marshaler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamodb-marshaler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamodb-marshaler)",
     "devDependencies": {
         "dynamodb-marshaler": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
